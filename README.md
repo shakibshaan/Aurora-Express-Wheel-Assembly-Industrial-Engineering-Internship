@@ -144,6 +144,9 @@ The original layout places the wheel press at maximum distance from the warehous
 
 **Projected impact:** 30–50% reduction in cycle time at the wheel press station.
 
+<img width="1232" height="665" alt="Screenshot 2026-06-06 at 9 09 12 PM" src="https://github.com/user-attachments/assets/787d754e-1fa8-4136-a9d3-889af2284b5a" />
+<img width="1223" height="668" alt="Screenshot 2026-06-06 at 9 09 39 PM" src="https://github.com/user-attachments/assets/98c81131-2b64-4b2e-a48a-e13649937482" />
+
 ---
 
 ## 💡 Recommendations Summary
@@ -170,6 +173,8 @@ The original layout places the wheel press at maximum distance from the warehous
 | Data Analysis | Microsoft Excel (statistical modelling, conditional formatting, charting) |
 | Communication | Executive findings report, stakeholder presentation (PowerPoint) |
 
+
+
 ---
 
 ##  About This Project
@@ -179,6 +184,9 @@ This project was completed as part of the **Siemens Mobility Virtual Experience 
 The programme simulates the work of an **Industrial Engineering intern** at Siemens Mobility, one of the world's leading providers of integrated transport technology.
 
 > **Disclaimer:** This is a virtual internship simulation. Data and scenarios are representative of real industrial engineering work but are provided by Forage/Siemens Mobility for educational purposes.
+>
+<img width="1126" height="830" alt="Screenshot 2026-06-06 at 9 10 58 PM" src="https://github.com/user-attachments/assets/07394cf9-f29e-4b3d-b63e-ba957fab7ef6" />
+
 
 ---
 

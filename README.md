@@ -30,13 +30,13 @@ This is the difference between an assembly process that *works* and one that *pe
 ## 📁 Project Structure
 
 ```
-📦 aurora-express-wheel-assembly/
-├── 📊 Aurora_Express_Time_Study_Professional.xlsx   ← Time study dataset + findings
+ aurora-express-wheel-assembly/
+├──  Aurora_Express_Time_Study_Professional.xlsx   ← Time study dataset + findings
 │   ├── Sheet 1: Time Study Data                     (20 steps × 10 observations, colour-coded risk)
 │   ├── Sheet 2: Findings & Recommendations          (structured bottleneck analysis)
 │   └── Sheet 3: Variability Summary + Chart         (visual overview for quick review)
 │
-├── 📑 Task_2_Proposal.pptx                          ← Facility layout redesign proposal
+├──  Task_2_Proposal.pptx                          ← Facility layout redesign proposal
 │   ├── Current layout with measured cycle times
 │   ├── Proposed optimised layout (circuit flow)
 │   ├── Justification, benefits & implementation strategy
@@ -47,7 +47,7 @@ This is the difference between an assembly process that *works* and one that *pe
 
 ---
 
-## 🧩 The Problem
+##  The Problem
 
 The Aurora Express wheel assembly station at Siemens Mobility exhibited three interlocking problems:
 
@@ -62,7 +62,7 @@ Several high-consequence operations — torque fastening, bearing installation, 
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
 ### Task 1 — Time Study
 
@@ -93,7 +93,7 @@ The redesign applied **lean manufacturing principles**:
 
 ---
 
-## 📋 Key Findings
+##  Key Findings
 
 ### 🔴 Critical — Step 6: Lubricate Wheel Bearings
 
@@ -136,7 +136,7 @@ No other finding in this study carries higher real-world consequence. A torque o
 
 ---
 
-### 🏗️ Layout Inefficiency — Wheel Press Position
+###  Layout Inefficiency — Wheel Press Position
 
 The original layout places the wheel press at maximum distance from the warehouse, requiring full-facility crane traversals for every single component movement. The proposed layout relocates the wheel press adjacent to the warehouse, converting long-haul crane operations into short pick-and-drop movements.
 
@@ -170,7 +170,7 @@ The original layout places the wheel press at maximum distance from the warehous
 
 ---
 
-## 🏢 About This Project
+##  About This Project
 
 This project was completed as part of the **Siemens Mobility Virtual Experience Programme** hosted on [Forage](https://www.theforage.com/), an online platform offering real-world job simulations from leading global companies.
 
@@ -180,7 +180,7 @@ The programme simulates the work of an **Industrial Engineering intern** at Siem
 
 ---
 
-## 📬 Contact
+##  Contact
 
 Feel free to connect or reach out if you'd like to discuss the methodology, findings, or applications of industrial engineering in manufacturing environments.
 

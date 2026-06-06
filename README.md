@@ -134,6 +134,8 @@ Low variability here does *not* mean this step is under control — it means the
 
 No other finding in this study carries higher real-world consequence. A torque operation that varies by 22% is not a process — it's a prayer. Mandatory torque verification, daily calibration checks, and operator rotation are non-negotiable controls.
 
+<img width="1615" height="641" alt="Screenshot 2026-06-06 at 9 07 06 PM" src="https://github.com/user-attachments/assets/ead51c28-6a29-4d32-8882-ce05c1d3ba64" />
+
 ---
 
 ###  Layout Inefficiency — Wheel Press Position
